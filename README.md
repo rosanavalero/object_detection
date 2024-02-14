@@ -4,7 +4,7 @@ Project of the Module 5: 'Visual Recognition' of the Master's degree in Computer
 ## Summary
 
 
-See [Report]([https://drive.google.com/file/d/1I7GHOIgVhsoc24-_R3qT4AydzxDSYe-w/view?usp=sharing](https://www.overleaf.com/read/sxbsysvnnkcj))
+See [Report](https://drive.google.com/file/d/1I7GHOIgVhsoc24-_R3qT4AydzxDSYe-w/view?usp=sharing](https://www.overleaf.com/read/sxbsysvnnkcj)
 
 ## Weekly Presentations
 - [Week 1](https://docs.google.com/presentation/d/1G2vFEEb3SlajuA48lpj6fiGXfKqzcVSPoTVNhaP77f0/edit?usp=sharing)
