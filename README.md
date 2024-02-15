@@ -2,7 +2,9 @@
 Project of the Module 5: 'Visual Recognition' of the Master's degree in Computer Vision at Universitat Autònoma de Barcelona (UAB)
 
 ## Summary
+This repository presents the findings and codebase from a comprehensive study evaluating the performance, context sensitivity, and limitations of Mask-RCNN and Faster-RCNN, two leading object detection and segmentation models. The evaluation was conducted on the KITTI-MOTS dataset, where the models were fine-tuned and compared against pretrained models from MSCOCO, revealing significant performance improvements. Additionally, the impact of contextual factors such as scale, orientation, and object position on detection accuracy was analyzed using the Out of Context dataset.
 
+The study identifies challenges including texture and feature interference leading to misclassification errors, underscoring the importance of careful model selection and awareness of pre-trained model biases. Visualization techniques are also emphasized for effective model performance verification during implementation. This repository includes code, datasets, and documentation to replicate the experiments and further explore the insights gained.
 
 See [Report](https://drive.google.com/file/d/1NsAixThfPALSulxXSsFDOKwCdwyTUNVN/view?usp=sharing)
 
